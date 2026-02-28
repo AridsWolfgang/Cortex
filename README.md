@@ -75,8 +75,8 @@ Welcome to the **Cortex Multi-Disciplinary Knowledge Chatbot** – your intellig
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/multidisciplinary-chatbot.git
-cd multidisciplinary-chatbot
+git clone https://github.com/AridsWolfgang/Cortex
+cd Cortex
 
 # Create virtual environment
 python -m venv venv
@@ -210,7 +210,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📬 Contact & Community
 
 - **Discord**: [Join our server](https://discord.gg/...)
-- **Twitter**: [@MultiChatbot](https://twitter.com/...)
+- **Twitter**: [@Cortex](https://twitter.com/...)
 - **GitHub Issues**: For bugs and feature requests
 - **Discussions**: For ideas and collaborations
 
@@ -220,7 +220,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
   
 **"The most interesting discoveries happen at the intersections of disciplines."**
 
-[Star this repo](https://github.com/yourusername/multidisciplinary-chatbot) ⭐ | [Report bug](https://github.com/yourusername/multidisciplinary-chatbot/issues) 🐛 | [Request feature](https://github.com/yourusername/multidisciplinary-chatbot/issues) 🚀
+[Star this repo](https://github.com/AridsWolfgang/Cortex) ⭐ | [Report bug](https://github.com/AridsWolfgang/Cortex/issues) 🐛 | [Request feature](https://github.com/AridsWolfgang/Cortexissues) 🚀
 
 </div>
 ```
