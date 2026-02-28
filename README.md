@@ -161,4 +161,3 @@ Cortex aims to be the tool that keeps opening minds — one fascinating connecti
 Questions? Ideas? → [Open a discussion](https://github.com/AridsWolfgang/Cortex/discussions)
 
 </div>
-```
